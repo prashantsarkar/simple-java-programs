@@ -1,3 +1,4 @@
+package com.prashant.codingchallenges;
 import java.util.HashMap;
 import java.util.Map;
 

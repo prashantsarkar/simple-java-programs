@@ -1,3 +1,4 @@
+package com.prashant.codingchallenges;
 
 public class ReverseInteger {
 

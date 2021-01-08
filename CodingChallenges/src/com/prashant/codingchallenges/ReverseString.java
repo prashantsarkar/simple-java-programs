@@ -1,3 +1,4 @@
+package com.prashant.codingchallenges;
 
 public class ReverseString {
 	public static void main(String[] args) {
